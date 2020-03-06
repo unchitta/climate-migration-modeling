@@ -1,2 +1,2 @@
-# icm-contest-2020
+# climate-migration-modeling
 Repo for the COMAP's Interdisciplinary Contest in Modeling 2020.
