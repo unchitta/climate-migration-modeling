@@ -59,7 +59,7 @@ def acceptance(country,t):
     
 def CHPI(c1,c2,t,alpha,beta):
     
-    return (alpha*sim(c1,c2) + beta*acceptance(c2,t)) / (alpha + beta)    
+    return (alpha*compatibility(c1,c2) + beta*acceptance(c2,t)) / (alpha + beta)    
 
 
 
@@ -73,4 +73,12 @@ def viability(country):
     viability_features_df = pd.read_csv('data/viability_features.csv').set_index('Country')
     country = viability_features_df.loc[country]
     
-    return a*(country["normGDP"]) + b*(1-country['normPopDens'])*(country['normPop']) + c*(country['normEmp']) + d*(country['Vulnerability score to climate change(ND-Gain index) in 2017'])
+    return a*(country["normGDP"]) + b*(1-country['normPopDens'])*(country['normPop']) + c*(country['normEmp']) - d*(country['Vulnerability score to climate change(ND-Gain index) in 2017'])
+
+
+def overall_evaluation(island, country, time):
+    a = .5
+    b = .5
+    return a* CHPI(island, country, time, .5,.5) + b* viability(country)
+
+
