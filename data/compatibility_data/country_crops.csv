@@ -1,0 +1,982 @@
+Area,Item Code,Item,Value
+Australia,221,"Almonds, with shell",69880.0
+Australia,711,"Anise, badian, fennel, coriander",1264.0
+Australia,515,Apples,268355.0
+Australia,526,Apricots,8801.0
+Australia,367,Asparagus,7233.0
+Australia,572,Avocados,63486.0
+Australia,486,Bananas,373931.0
+Australia,44,Barley,9253852.0
+Australia,176,"Beans, dry",32569.0
+Australia,414,"Beans, green",45903.0
+Australia,558,Berries nes,4821.0
+Australia,552,Blueberries,5138.0
+Australia,181,"Broad beans, horse beans, dry",377740.0
+Australia,358,Cabbages and other brassicas,92877.0
+Australia,101,Canary seed,4847.0
+Australia,426,Carrots and turnips,284707.0
+Australia,393,Cauliflowers and broccoli,117461.0
+Australia,531,Cherries,15964.0
+Australia,191,Chick peas,998231.0
+Australia,401,"Chillies and peppers, green",49039.0
+Australia,767,Cotton lint,950395.0
+Australia,329,Cottonseed,1414000.0
+Australia,397,Cucumbers and gherkins,17681.0
+Australia,550,Currants,541.0
+Australia,512,"Fruit, citrus nes",1538.0
+Australia,603,"Fruit, tropical fresh nes",7647.0
+Australia,507,Grapefruit (inc. pomelos),9518.0
+Australia,560,Grapes,1663557.0
+Australia,242,"Groundnuts, with shell",14978.0
+Australia,677,Hops,705.0
+Australia,592,Kiwi fruit,2861.0
+Australia,497,Lemons and limes,33421.0
+Australia,201,Lentils,255185.0
+Australia,372,Lettuce and chicory,148349.0
+Australia,333,Linseed,6000.0
+Australia,210,Lupins,714254.0
+Australia,56,Maize,387240.0
+Australia,446,"Maize, green",97224.0
+Australia,571,"Mangoes, mangosteens, guavas",56893.0
+Australia,568,"Melons, other (inc.cantaloupes)",224672.0
+Australia,79,Millet,35922.0
+Australia,449,Mushrooms and truffles,51222.0
+Australia,234,Nuts nes,44014.0
+Australia,75,Oats,1227837.0
+Australia,260,Olives,62179.0
+Australia,403,"Onions, dry",278938.0
+Australia,490,Oranges,378233.0
+Australia,600,Papayas,6402.0
+Australia,534,Peaches and nectarines,82407.0
+Australia,521,Pears,103748.0
+Australia,187,"Peas, dry",317209.0
+Australia,417,"Peas, green",22929.0
+Australia,587,Persimmons,719.0
+Australia,574,Pineapples,88660.0
+Australia,223,Pistachios,1529.0
+Australia,536,Plums and sloes,17837.0
+Australia,116,Potatoes,1188655.0
+Australia,211,Pulses nes,37335.0
+Australia,394,"Pumpkins, squash and gourds",92707.0
+Australia,270,Rapeseed,3893071.0
+Australia,547,Raspberries,707.0
+Australia,27,"Rice, paddy",635113.0
+Australia,71,Rye,30762.0
+Australia,280,Safflower seed,4892.0
+Australia,328,Seed cotton,2500000.0
+Australia,83,Sorghum,1257219.0
+Australia,236,Soybeans,63000.0
+Australia,373,Spinach,10893.0
+Australia,544,Strawberries,57384.0
+Australia,156,Sugar cane,33506830.0
+Australia,267,Sunflower seed,31000.0
+Australia,122,Sweet potatoes,70204.0
+Australia,495,"Tangerines, mandarins, clementines, satsumas",138007.0
+Australia,826,"Tobacco, unmanufactured",2256.0
+Australia,388,Tomatoes,386376.0
+Australia,97,Triticale,86957.0
+Australia,463,"Vegetables, fresh nes",77528.0
+Australia,205,Vetches,12006.0
+Australia,222,"Walnuts, with shell",2681.0
+Australia,567,Watermelons,181667.0
+Australia,15,Wheat,20941134.0
+"China, Hong Kong SAR",414,"Beans, green",298.0
+"China, Hong Kong SAR",358,Cabbages and other brassicas,835.0
+"China, Hong Kong SAR",397,Cucumbers and gherkins,1879.0
+"China, Hong Kong SAR",399,Eggplants (aubergines),261.0
+"China, Hong Kong SAR",619,"Fruit, fresh nes",5033.0
+"China, Hong Kong SAR",372,Lettuce and chicory,4698.0
+"China, Hong Kong SAR",402,"Onions, shallots, green",4704.0
+"China, Hong Kong SAR",417,"Peas, green",422.0
+"China, Hong Kong SAR",394,"Pumpkins, squash and gourds",249.0
+"China, Hong Kong SAR",723,Spices nes,998.0
+"China, Hong Kong SAR",373,Spinach,12848.0
+"China, Hong Kong SAR",463,"Vegetables, fresh nes",11620.0
+"China, mainland",221,"Almonds, with shell",49879.0
+"China, mainland",711,"Anise, badian, fennel, coriander",56395.0
+"China, mainland",515,Apples,39233400.0
+"China, mainland",526,Apricots,58811.0
+"China, mainland",366,Artichokes,90397.0
+"China, mainland",367,Asparagus,7982230.0
+"China, mainland",572,Avocados,128743.0
+"China, mainland",486,Bananas,11221700.0
+"China, mainland",44,Barley,1487906.0
+"China, mainland",782,"Bastfibres, other",21510.0
+"China, mainland",176,"Beans, dry",1324407.0
+"China, mainland",414,"Beans, green",19897100.0
+"China, mainland",558,Berries nes,62212.0
+"China, mainland",181,"Broad beans, horse beans, dry",1806010.0
+"China, mainland",89,Buckwheat,1134988.0
+"China, mainland",358,Cabbages and other brassicas,33188664.0
+"China, mainland",426,Carrots and turnips,17904421.0
+"China, mainland",217,"Cashew nuts, with shell",223.0
+"China, mainland",125,Cassava,4915255.0
+"China, mainland",265,Castor oil seed,27000.0
+"China, mainland",393,Cauliflowers and broccoli,10668866.0
+"China, mainland",108,Cereals nes,88605.0
+"China, mainland",531,Cherries,37577.0
+"China, mainland",220,Chestnut,1965351.0
+"China, mainland",191,Chick peas,15652.0
+"China, mainland",689,"Chillies and peppers, dry",321290.0
+"China, mainland",401,"Chillies and peppers, green",18184711.0
+"China, mainland",693,Cinnamon (cannella),81545.0
+"China, mainland",698,Cloves,1322.0
+"China, mainland",249,Coconuts,383123.0
+"China, mainland",656,"Coffee, green",100332.0
+"China, mainland",767,Cotton lint,6102800.0
+"China, mainland",329,Cottonseed,10100000.0
+"China, mainland",195,"Cow peas, dry",15652.0
+"China, mainland",397,Cucumbers and gherkins,56240428.0
+"China, mainland",577,Dates,158294.0
+"China, mainland",399,Eggplants (aubergines),34102735.0
+"China, mainland",569,Figs,13914.0
+"China, mainland",773,Flax fibre and tow,13157.0
+"China, mainland",512,"Fruit, citrus nes",5793396.0
+"China, mainland",619,"Fruit, fresh nes",2840643.0
+"China, mainland",541,"Fruit, stone nes",167011.0
+"China, mainland",603,"Fruit, tropical fresh nes",3803954.0
+"China, mainland",406,Garlic,22273802.0
+"China, mainland",720,Ginger,510035.0
+"China, mainland",507,Grapefruit (inc. pomelos),4965768.0
+"China, mainland",560,Grapes,13397012.0
+"China, mainland",242,"Groundnuts, with shell",17332600.0
+"China, mainland",225,"Hazelnuts, with shell",24790.0
+"China, mainland",777,Hemp tow waste,12623.0
+"China, mainland",336,Hempseed,11822.0
+"China, mainland",677,Hops,8407.0
+"China, mainland",780,Jute,30497.0
+"China, mainland",592,Kiwi fruit,2035158.0
+"China, mainland",407,"Leeks, other alliaceous vegetables",133975.0
+"China, mainland",497,Lemons and limes,2482884.0
+"China, mainland",201,Lentils,172173.0
+"China, mainland",372,Lettuce and chicory,15541717.0
+"China, mainland",333,Linseed,365511.0
+"China, mainland",56,Maize,257173900.0
+"China, mainland",446,"Maize, green",106884.0
+"China, mainland",571,"Mangoes, mangosteens, guavas",4845442.0
+"China, mainland",568,"Melons, other (inc.cantaloupes)",12727263.0
+"China, mainland",299,Melonseed,30112.0
+"China, mainland",79,Millet,1565965.0
+"China, mainland",449,Mushrooms and truffles,6664606.0
+"China, mainland",292,Mustard seed,18582.0
+"China, mainland",234,Nuts nes,144065.0
+"China, mainland",75,Oats,1004592.0
+"China, mainland",254,Oil palm fruit,672760.0
+"China, mainland",257,"Oil, palm",230500.0
+"China, mainland",339,Oilseeds nes,2630000.0
+"China, mainland",403,"Onions, dry",24699576.0
+"China, mainland",402,"Onions, shallots, green",941706.0
+"China, mainland",490,Oranges,9103908.0
+"China, mainland",256,Palm kernels,53820.0
+"China, mainland",600,Papayas,40422.0
+"China, mainland",534,Peaches and nectarines,15195291.0
+"China, mainland",521,Pears,16078000.0
+"China, mainland",187,"Peas, dry",1525476.0
+"China, mainland",417,"Peas, green",12960844.0
+"China, mainland",687,Pepper (piper spp.),36125.0
+"China, mainland",587,Persimmons,3084458.0
+"China, mainland",574,Pineapples,1573471.0
+"China, mainland",223,Pistachios,74828.0
+"China, mainland",536,Plums and sloes,6788107.0
+"China, mainland",116,Potatoes,90259155.0
+"China, mainland",211,Pulses nes,154113.0
+"China, mainland",394,"Pumpkins, squash and gourds",8133734.0
+"China, mainland",523,Quinces,118593.0
+"China, mainland",788,Ramie,104125.0
+"China, mainland",270,Rapeseed,13281200.0
+"China, mainland",27,"Rice, paddy",212129000.0
+"China, mainland",149,Roots and tubers nes,49676.0
+"China, mainland",836,"Rubber, natural",824000.0
+"China, mainland",71,Rye,1044776.0
+"China, mainland",280,Safflower seed,32950.0
+"China, mainland",328,Seed cotton,17711962.0
+"China, mainland",289,Sesame seed,431500.0
+"China, mainland",789,Sisal,12986.0
+"China, mainland",83,Sorghum,2192032.0
+"China, mainland",236,Soybeans,14189217.0
+"China, mainland",723,Spices nes,113199.0
+"China, mainland",373,Spinach,23792691.0
+"China, mainland",544,Strawberries,2955453.0
+"China, mainland",157,Sugar beet,12077618.0
+"China, mainland",156,Sugar cane,108097100.0
+"China, mainland",267,Sunflower seed,2550000.0
+"China, mainland",122,Sweet potatoes,53009345.0
+"China, mainland",305,Tallowtree seed,1048526.0
+"China, mainland",495,"Tangerines, mandarins, clementines, satsumas",19035444.0
+"China, mainland",136,Taro (cocoyam),1910563.0
+"China, mainland",667,Tea,2610400.0
+"China, mainland",826,"Tobacco, unmanufactured",2241000.0
+"China, mainland",388,Tomatoes,61523462.0
+"China, mainland",97,Triticale,773536.0
+"China, mainland",275,Tung nuts,348000.0
+"China, mainland",692,Vanilla,459.0
+"China, mainland",463,"Vegetables, fresh nes",173835567.0
+"China, mainland",420,"Vegetables, leguminous nes",124895.0
+"China, mainland",222,"Walnuts, with shell",1586367.0
+"China, mainland",567,Watermelons,62803768.0
+"China, mainland",15,Wheat,131440500.0
+"China, Taiwan Province of",515,Apples,1619.0
+"China, Taiwan Province of",526,Apricots,17382.0
+"China, Taiwan Province of",226,Areca nuts,102918.0
+"China, Taiwan Province of",367,Asparagus,2582.0
+"China, Taiwan Province of",486,Bananas,356238.0
+"China, Taiwan Province of",176,"Beans, dry",13145.0
+"China, Taiwan Province of",414,"Beans, green",12585.0
+"China, Taiwan Province of",358,Cabbages and other brassicas,651187.0
+"China, Taiwan Province of",426,Carrots and turnips,114388.0
+"China, Taiwan Province of",125,Cassava,10749.0
+"China, Taiwan Province of",393,Cauliflowers and broccoli,68515.0
+"China, Taiwan Province of",108,Cereals nes,386.0
+"China, Taiwan Province of",401,"Chillies and peppers, green",29307.0
+"China, Taiwan Province of",249,Coconuts,19561.0
+"China, Taiwan Province of",397,Cucumbers and gherkins,51224.0
+"China, Taiwan Province of",399,Eggplants (aubergines),34561.0
+"China, Taiwan Province of",821,Fibre crops nes,371.0
+"China, Taiwan Province of",773,Flax fibre and tow,259.0
+"China, Taiwan Province of",512,"Fruit, citrus nes",71495.0
+"China, Taiwan Province of",619,"Fruit, fresh nes",155143.0
+"China, Taiwan Province of",603,"Fruit, tropical fresh nes",449089.0
+"China, Taiwan Province of",406,Garlic,60075.0
+"China, Taiwan Province of",720,Ginger,23372.0
+"China, Taiwan Province of",507,Grapefruit (inc. pomelos),90563.0
+"China, Taiwan Province of",560,Grapes,97799.0
+"China, Taiwan Province of",242,"Groundnuts, with shell",59471.0
+"China, Taiwan Province of",407,"Leeks, other alliaceous vegetables",22960.0
+"China, Taiwan Province of",497,Lemons and limes,41431.0
+"China, Taiwan Province of",56,Maize,174759.0
+"China, Taiwan Province of",571,"Mangoes, mangosteens, guavas",146672.0
+"China, Taiwan Province of",568,"Melons, other (inc.cantaloupes)",60955.0
+"China, Taiwan Province of",79,Millet,398.0
+"China, Taiwan Province of",449,Mushrooms and truffles,10719.0
+"China, Taiwan Province of",339,Oilseeds nes,22751.0
+"China, Taiwan Province of",260,Olives,2630.0
+"China, Taiwan Province of",403,"Onions, dry",75768.0
+"China, Taiwan Province of",402,"Onions, shallots, green",117210.0
+"China, Taiwan Province of",490,Oranges,142397.0
+"China, Taiwan Province of",600,Papayas,127244.0
+"China, Taiwan Province of",534,Peaches and nectarines,22506.0
+"China, Taiwan Province of",521,Pears,118649.0
+"China, Taiwan Province of",417,"Peas, green",3860.0
+"China, Taiwan Province of",587,Persimmons,84301.0
+"China, Taiwan Province of",574,Pineapples,432084.0
+"China, Taiwan Province of",536,Plums and sloes,13080.0
+"China, Taiwan Province of",116,Potatoes,62287.0
+"China, Taiwan Province of",394,"Pumpkins, squash and gourds",52868.0
+"China, Taiwan Province of",27,"Rice, paddy",1949796.0
+"China, Taiwan Province of",289,Sesame seed,1886.0
+"China, Taiwan Province of",83,Sorghum,2329.0
+"China, Taiwan Province of",236,Soybeans,4404.0
+"China, Taiwan Province of",544,Strawberries,8810.0
+"China, Taiwan Province of",423,String beans,10789.0
+"China, Taiwan Province of",156,Sugar cane,621871.0
+"China, Taiwan Province of",122,Sweet potatoes,236266.0
+"China, Taiwan Province of",495,"Tangerines, mandarins, clementines, satsumas",178204.0
+"China, Taiwan Province of",136,Taro (cocoyam),42274.0
+"China, Taiwan Province of",667,Tea,14738.0
+"China, Taiwan Province of",826,"Tobacco, unmanufactured",1177.0
+"China, Taiwan Province of",388,Tomatoes,108082.0
+"China, Taiwan Province of",463,"Vegetables, fresh nes",1014460.0
+"China, Taiwan Province of",420,"Vegetables, leguminous nes",84490.0
+"China, Taiwan Province of",567,Watermelons,220846.0
+"China, Taiwan Province of",15,Wheat,6724.0
+Germany,515,Apples,1198517.0
+Germany,526,Apricots,229.0
+Germany,367,Asparagus,133020.0
+Germany,44,Barley,9583600.0
+Germany,414,"Beans, green",38116.0
+Germany,558,Berries nes,7341.0
+Germany,552,Blueberries,12764.0
+Germany,181,"Broad beans, horse beans, dry",160800.0
+Germany,358,Cabbages and other brassicas,604331.0
+Germany,426,Carrots and turnips,625357.0
+Germany,393,Cauliflowers and broccoli,126097.0
+Germany,531,Cherries,44223.0
+Germany,530,"Cherries, sour",15902.0
+Germany,401,"Chillies and peppers, green",14658.0
+Germany,397,Cucumbers and gherkins,267589.0
+Germany,550,Currants,16091.0
+Germany,541,"Fruit, stone nes",8892.0
+Germany,549,Gooseberries,86433.0
+Germany,103,"Grain, mixed",50200.0
+Germany,560,Grapes,1403597.0
+Germany,677,Hops,32527.0
+Germany,407,"Leeks, other alliaceous vegetables",76984.0
+Germany,372,Lettuce and chicory,350445.0
+Germany,333,Linseed,6650.0
+Germany,210,Lupins,22300.0
+Germany,56,Maize,3344000.0
+Germany,449,Mushrooms and truffles,73231.0
+Germany,292,Mustard seed,8118.0
+Germany,75,Oats,577600.0
+Germany,403,"Onions, dry",409504.0
+Germany,402,"Onions, shallots, green",93656.0
+Germany,534,Peaches and nectarines,562.0
+Germany,521,Pears,47644.0
+Germany,187,"Peas, dry",197100.0
+Germany,417,"Peas, green",24243.0
+Germany,536,Plums and sloes,61229.0
+Germany,296,Poppy seed,2874.0
+Germany,116,Potatoes,8920800.0
+Germany,211,Pulses nes,12607.0
+Germany,394,"Pumpkins, squash and gourds",122241.0
+Germany,270,Rapeseed,3670600.0
+Germany,547,Raspberries,6824.0
+Germany,71,Rye,2201400.0
+Germany,236,Soybeans,59000.0
+Germany,373,Spinach,66197.0
+Germany,544,Strawberries,141693.0
+Germany,157,Sugar beet,26191400.0
+Germany,267,Sunflower seed,31000.0
+Germany,826,"Tobacco, unmanufactured",6064.0
+Germany,388,Tomatoes,103266.0
+Germany,97,Triticale,1935500.0
+Germany,463,"Vegetables, fresh nes",390996.0
+Germany,420,"Vegetables, leguminous nes",3063.0
+Germany,222,"Walnuts, with shell",18423.0
+Germany,15,Wheat,20263500.0
+Japan,515,Apples,756100.0
+Japan,526,Apricots,112400.0
+Japan,367,Asparagus,26937.0
+Japan,44,Barley,174700.0
+Japan,176,"Beans, dry",51900.0
+Japan,181,"Broad beans, horse beans, dry",117.0
+Japan,89,Buckwheat,29000.0
+Japan,358,Cabbages and other brassicas,1379545.0
+Japan,426,Carrots and turnips,612050.0
+Japan,393,Cauliflowers and broccoli,164436.0
+Japan,531,Cherries,18100.0
+Japan,220,Chestnut,16500.0
+Japan,401,"Chillies and peppers, green",140300.0
+Japan,397,Cucumbers and gherkins,550000.0
+Japan,399,Eggplants (aubergines),300400.0
+Japan,569,Figs,14158.0
+Japan,512,"Fruit, citrus nes",69030.0
+Japan,541,"Fruit, stone nes",2790.0
+Japan,406,Garlic,20978.0
+Japan,720,Ginger,47012.0
+Japan,560,Grapes,174700.0
+Japan,242,"Groundnuts, with shell",15600.0
+Japan,677,Hops,683.0
+Japan,592,Kiwi fruit,25462.0
+Japan,497,Lemons and limes,8094.0
+Japan,372,Lettuce and chicory,578829.0
+Japan,56,Maize,165.0
+Japan,446,"Maize, green",223884.0
+Japan,571,"Mangoes, mangosteens, guavas",3307.0
+Japan,568,"Melons, other (inc.cantaloupes)",143078.0
+Japan,79,Millet,203.0
+Japan,449,Mushrooms and truffles,65747.0
+Japan,75,Oats,278.0
+Japan,403,"Onions, dry",1155000.0
+Japan,402,"Onions, shallots, green",530590.0
+Japan,490,Oranges,36040.0
+Japan,534,Peaches and nectarines,113200.0
+Japan,521,Pears,258700.0
+Japan,187,"Peas, dry",1177.0
+Japan,417,"Peas, green",27642.0
+Japan,587,Persimmons,208000.0
+Japan,574,Pineapples,8672.0
+Japan,536,Plums and sloes,23100.0
+Japan,116,Potatoes,2261945.0
+Japan,394,"Pumpkins, squash and gourds",197163.0
+Japan,523,Quinces,169.0
+Japan,270,Rapeseed,3120.0
+Japan,27,"Rice, paddy",9727500.0
+Japan,149,Roots and tubers nes,55589.0
+Japan,236,Soybeans,211300.0
+Japan,373,Spinach,226382.0
+Japan,544,Strawberries,163486.0
+Japan,423,String beans,37538.0
+Japan,157,Sugar beet,3611000.0
+Japan,156,Sugar cane,1217298.0
+Japan,122,Sweet potatoes,796500.0
+Japan,495,"Tangerines, mandarins, clementines, satsumas",773700.0
+Japan,136,Taro (cocoyam),141803.0
+Japan,667,Tea,83052.0
+Japan,826,"Tobacco, unmanufactured",16998.0
+Japan,388,Tomatoes,724200.0
+Japan,463,"Vegetables, fresh nes",2720590.0
+Japan,420,"Vegetables, leguminous nes",15024.0
+Japan,567,Watermelons,317395.0
+Japan,15,Wheat,764900.0
+Japan,137,Yams,164201.0
+Netherlands,711,"Anise, badian, fennel, coriander",340.0
+Netherlands,515,Apples,269000.0
+Netherlands,367,Asparagus,19000.0
+Netherlands,44,Barley,253423.0
+Netherlands,176,"Beans, dry",1829.0
+Netherlands,414,"Beans, green",37600.0
+Netherlands,558,Berries nes,1410.0
+Netherlands,552,Blueberries,10257.0
+Netherlands,181,"Broad beans, horse beans, dry",1682.0
+Netherlands,358,Cabbages and other brassicas,208700.0
+Netherlands,426,Carrots and turnips,545099.0
+Netherlands,393,Cauliflowers and broccoli,70100.0
+Netherlands,531,Cherries,328.0
+Netherlands,459,Chicory roots,52700.0
+Netherlands,401,"Chillies and peppers, green",355000.0
+Netherlands,397,Cucumbers and gherkins,410000.0
+Netherlands,550,Currants,1888.0
+Netherlands,399,Eggplants (aubergines),55000.0
+Netherlands,773,Flax fibre and tow,8783.0
+Netherlands,560,Grapes,420.0
+Netherlands,777,Hemp tow waste,13851.0
+Netherlands,407,"Leeks, other alliaceous vegetables",82200.0
+Netherlands,372,Lettuce and chicory,101181.0
+Netherlands,333,Linseed,1508.0
+Netherlands,56,Maize,84894.0
+Netherlands,568,"Melons, other (inc.cantaloupes)",2161.0
+Netherlands,449,Mushrooms and truffles,300000.0
+Netherlands,75,Oats,7011.0
+Netherlands,403,"Onions, dry",1264800.0
+Netherlands,402,"Onions, shallots, green",46103.0
+Netherlands,521,Pears,402000.0
+Netherlands,187,"Peas, dry",2563.0
+Netherlands,417,"Peas, green",19000.0
+Netherlands,536,Plums and sloes,5688.0
+Netherlands,296,Poppy seed,355.0
+Netherlands,116,Potatoes,6029734.0
+Netherlands,394,"Pumpkins, squash and gourds",22891.0
+Netherlands,270,Rapeseed,5836.0
+Netherlands,547,Raspberries,6784.0
+Netherlands,71,Rye,4457.0
+Netherlands,373,Spinach,66600.0
+Netherlands,544,Strawberries,64800.0
+Netherlands,157,Sugar beet,6508142.0
+Netherlands,388,Tomatoes,910000.0
+Netherlands,97,Triticale,5450.0
+Netherlands,463,"Vegetables, fresh nes",307249.0
+Netherlands,420,"Vegetables, leguminous nes",3800.0
+Netherlands,15,Wheat,985297.0
+New Zealand,515,Apples,453911.0
+New Zealand,526,Apricots,2812.0
+New Zealand,367,Asparagus,2094.0
+New Zealand,572,Avocados,25525.0
+New Zealand,44,Barley,379704.0
+New Zealand,414,"Beans, green",4571.0
+New Zealand,558,Berries nes,2917.0
+New Zealand,552,Blueberries,3030.0
+New Zealand,358,Cabbages and other brassicas,54859.0
+New Zealand,426,Carrots and turnips,77240.0
+New Zealand,393,Cauliflowers and broccoli,44654.0
+New Zealand,108,Cereals nes,10770.0
+New Zealand,531,Cherries,2302.0
+New Zealand,401,"Chillies and peppers, green",3825.0
+New Zealand,397,Cucumbers and gherkins,547.0
+New Zealand,550,Currants,9240.0
+New Zealand,821,Fibre crops nes,4060.0
+New Zealand,512,"Fruit, citrus nes",8476.0
+New Zealand,619,"Fruit, fresh nes",21549.0
+New Zealand,541,"Fruit, stone nes",2542.0
+New Zealand,603,"Fruit, tropical fresh nes",2419.0
+New Zealand,406,Garlic,1995.0
+New Zealand,507,Grapefruit (inc. pomelos),736.0
+New Zealand,560,Grapes,426781.0
+New Zealand,677,Hops,904.0
+New Zealand,592,Kiwi fruit,414261.0
+New Zealand,407,"Leeks, other alliaceous vegetables",2575.0
+New Zealand,497,Lemons and limes,6128.0
+New Zealand,201,Lentils,2619.0
+New Zealand,372,Lettuce and chicory,38153.0
+New Zealand,333,Linseed,2545.0
+New Zealand,56,Maize,191993.0
+New Zealand,446,"Maize, green",75452.0
+New Zealand,568,"Melons, other (inc.cantaloupes)",3252.0
+New Zealand,449,Mushrooms and truffles,2906.0
+New Zealand,75,Oats,24286.0
+New Zealand,402,"Onions, shallots, green",246502.0
+New Zealand,490,Oranges,7242.0
+New Zealand,534,Peaches and nectarines,4008.0
+New Zealand,521,Pears,23267.0
+New Zealand,187,"Peas, dry",19380.0
+New Zealand,417,"Peas, green",33381.0
+New Zealand,587,Persimmons,2384.0
+New Zealand,536,Plums and sloes,1695.0
+New Zealand,116,Potatoes,511776.0
+New Zealand,394,"Pumpkins, squash and gourds",114392.0
+New Zealand,523,Quinces,1351.0
+New Zealand,270,Rapeseed,2795.0
+New Zealand,547,Raspberries,141.0
+New Zealand,373,Spinach,1573.0
+New Zealand,544,Strawberries,4749.0
+New Zealand,122,Sweet potatoes,11030.0
+New Zealand,495,"Tangerines, mandarins, clementines, satsumas",7017.0
+New Zealand,388,Tomatoes,74356.0
+New Zealand,463,"Vegetables, fresh nes",163656.0
+New Zealand,420,"Vegetables, leguminous nes",516.0
+New Zealand,567,Watermelons,2517.0
+New Zealand,15,Wheat,371027.0
+Poland,515,Apples,3999523.0
+Poland,526,Apricots,3601.0
+Poland,367,Asparagus,2878.0
+Poland,44,Barley,3048273.0
+Poland,176,"Beans, dry",44611.0
+Poland,414,"Beans, green",3063.0
+Poland,558,Berries nes,58359.0
+Poland,552,Blueberries,25301.0
+Poland,181,"Broad beans, horse beans, dry",280.0
+Poland,89,Buckwheat,93599.0
+Poland,358,Cabbages and other brassicas,985347.0
+Poland,426,Carrots and turnips,726369.0
+Poland,393,Cauliflowers and broccoli,292754.0
+Poland,108,Cereals nes,7516.0
+Poland,531,Cherries,59957.0
+Poland,530,"Cherries, sour",200632.0
+Poland,459,Chicory roots,14097.0
+Poland,397,Cucumbers and gherkins,538676.0
+Poland,550,Currants,164643.0
+Poland,619,"Fruit, fresh nes",70988.0
+Poland,541,"Fruit, stone nes",11824.0
+Poland,549,Gooseberries,11539.0
+Poland,103,"Grain, mixed",2505509.0
+Poland,225,"Hazelnuts, with shell",6642.0
+Poland,677,Hops,1746.0
+Poland,407,"Leeks, other alliaceous vegetables",109436.0
+Poland,372,Lettuce and chicory,42614.0
+Poland,333,Linseed,7028.0
+Poland,210,Lupins,124314.0
+Poland,56,Maize,3864028.0
+Poland,446,"Maize, green",49963.0
+Poland,79,Millet,21938.0
+Poland,449,Mushrooms and truffles,280232.0
+Poland,75,Oats,1166051.0
+Poland,339,Oilseeds nes,40092.0
+Poland,403,"Onions, dry",562869.0
+Poland,534,Peaches and nectarines,10583.0
+Poland,521,Pears,90912.0
+Poland,187,"Peas, dry",71941.0
+Poland,417,"Peas, green",41726.0
+Poland,536,Plums and sloes,121076.0
+Poland,116,Potatoes,7478184.0
+Poland,211,Pulses nes,466072.0
+Poland,394,"Pumpkins, squash and gourds",98925.0
+Poland,270,Rapeseed,2203869.0
+Poland,547,Raspberries,115613.0
+Poland,71,Rye,2166884.0
+Poland,236,Soybeans,10271.0
+Poland,544,Strawberries,195578.0
+Poland,423,String beans,51776.0
+Poland,157,Sugar beet,14302911.0
+Poland,267,Sunflower seed,9663.0
+Poland,826,"Tobacco, unmanufactured",33190.0
+Poland,388,Tomatoes,928826.0
+Poland,97,Triticale,4085669.0
+Poland,463,"Vegetables, fresh nes",827180.0
+Poland,420,"Vegetables, leguminous nes",14151.0
+Poland,205,Vetches,4919.0
+Poland,222,"Walnuts, with shell",8477.0
+Poland,15,Wheat,9820315.0
+Republic of Korea,515,Apples,475303.0
+Republic of Korea,44,Barley,102702.0
+Republic of Korea,176,"Beans, dry",7828.0
+Republic of Korea,89,Buckwheat,1624.0
+Republic of Korea,358,Cabbages and other brassicas,2536675.0
+Republic of Korea,426,Carrots and turnips,75467.0
+Republic of Korea,108,Cereals nes,12907.0
+Republic of Korea,220,Chestnut,53384.0
+Republic of Korea,401,"Chillies and peppers, green",230593.0
+Republic of Korea,397,Cucumbers and gherkins,333233.0
+Republic of Korea,399,Eggplants (aubergines),5472.0
+Republic of Korea,512,"Fruit, citrus nes",1100.0
+Republic of Korea,619,"Fruit, fresh nes",172393.0
+Republic of Korea,406,Garlic,331741.0
+Republic of Korea,720,Ginger,6952.0
+Republic of Korea,560,Grapes,177391.0
+Republic of Korea,242,"Groundnuts, with shell",14553.0
+Republic of Korea,592,Kiwi fruit,7377.0
+Republic of Korea,407,"Leeks, other alliaceous vegetables",153326.0
+Republic of Korea,372,Lettuce and chicory,84667.0
+Republic of Korea,56,Maize,74368.0
+Republic of Korea,568,"Melons, other (inc.cantaloupes)",167638.0
+Republic of Korea,79,Millet,1608.0
+Republic of Korea,449,Mushrooms and truffles,22737.0
+Republic of Korea,234,Nuts nes,18291.0
+Republic of Korea,339,Oilseeds nes,50255.0
+Republic of Korea,403,"Onions, dry",1520969.0
+Republic of Korea,402,"Onions, shallots, green",467526.0
+Republic of Korea,534,Peaches and nectarines,205742.0
+Republic of Korea,521,Pears,203166.0
+Republic of Korea,587,Persimmons,346679.0
+Republic of Korea,574,Pineapples,1118.0
+Republic of Korea,536,Plums and sloes,63236.0
+Republic of Korea,116,Potatoes,553596.0
+Republic of Korea,211,Pulses nes,7793.0
+Republic of Korea,394,"Pumpkins, squash and gourds",321591.0
+Republic of Korea,270,Rapeseed,916.0
+Republic of Korea,27,"Rice, paddy",5195437.0
+Republic of Korea,289,Sesame seed,12727.0
+Republic of Korea,83,Sorghum,2702.0
+Republic of Korea,236,Soybeans,89410.0
+Republic of Korea,373,Spinach,68076.0
+Republic of Korea,544,Strawberries,213054.0
+Republic of Korea,122,Sweet potatoes,314248.0
+Republic of Korea,495,"Tangerines, mandarins, clementines, satsumas",646218.0
+Republic of Korea,667,Tea,2712.0
+Republic of Korea,826,"Tobacco, unmanufactured",26175.0
+Republic of Korea,388,Tomatoes,344740.0
+Republic of Korea,463,"Vegetables, fresh nes",3301207.0
+Republic of Korea,222,"Walnuts, with shell",1151.0
+Republic of Korea,567,Watermelons,534401.0
+Republic of Korea,15,Wheat,37577.0
+Russian Federation,711,"Anise, badian, fennel, coriander",10146.0
+Russian Federation,515,Apples,1859400.0
+Russian Federation,526,Apricots,66300.0
+Russian Federation,44,Barley,16991907.0
+Russian Federation,782,"Bastfibres, other",49868.0
+Russian Federation,176,"Beans, dry",5432.0
+Russian Federation,558,Berries nes,4000.0
+Russian Federation,552,Blueberries,3300.0
+Russian Federation,181,"Broad beans, horse beans, dry",7600.0
+Russian Federation,89,Buckwheat,931713.0
+Russian Federation,358,Cabbages and other brassicas,2495839.0
+Russian Federation,426,Carrots and turnips,1408348.0
+Russian Federation,393,Cauliflowers and broccoli,23530.0
+Russian Federation,108,Cereals nes,18505.0
+Russian Federation,531,Cherries,46400.0
+Russian Federation,530,"Cherries, sour",232200.0
+Russian Federation,191,Chick peas,620400.0
+Russian Federation,397,Cucumbers and gherkins,1604346.0
+Russian Federation,550,Currants,398000.0
+Russian Federation,773,Flax fibre and tow,36715.0
+Russian Federation,619,"Fruit, fresh nes",900.0
+Russian Federation,406,Garlic,211981.0
+Russian Federation,549,Gooseberries,66300.0
+Russian Federation,560,Grapes,627739.0
+Russian Federation,777,Hemp tow waste,1256.0
+Russian Federation,336,Hempseed,2117.0
+Russian Federation,677,Hops,144.0
+Russian Federation,201,Lentils,194726.0
+Russian Federation,333,Linseed,557888.0
+Russian Federation,210,Lupins,136352.0
+Russian Federation,56,Maize,11419020.0
+Russian Federation,79,Millet,217200.0
+Russian Federation,449,Mushrooms and truffles,25459.0
+Russian Federation,292,Mustard seed,123507.0
+Russian Federation,234,Nuts nes,20044.0
+Russian Federation,75,Oats,4719324.0
+Russian Federation,257,"Oil, palm",450.0
+Russian Federation,339,Oilseeds nes,39110.0
+Russian Federation,403,"Onions, dry",1642106.0
+Russian Federation,534,Peaches and nectarines,36500.0
+Russian Federation,521,Pears,66300.0
+Russian Federation,187,"Peas, dry",2304432.0
+Russian Federation,417,"Peas, green",79892.0
+Russian Federation,536,Plums and sloes,165800.0
+Russian Federation,116,Potatoes,22394960.0
+Russian Federation,211,Pulses nes,10573.0
+Russian Federation,394,"Pumpkins, squash and gourds",1189539.0
+Russian Federation,523,Quinces,6600.0
+Russian Federation,270,Rapeseed,1988697.0
+Russian Federation,547,Raspberries,165800.0
+Russian Federation,27,"Rice, paddy",1038222.0
+Russian Federation,71,Rye,1916056.0
+Russian Federation,280,Safflower seed,25259.0
+Russian Federation,83,Sorghum,49128.0
+Russian Federation,236,Soybeans,4026850.0
+Russian Federation,544,Strawberries,199000.0
+Russian Federation,157,Sugar beet,42065957.0
+Russian Federation,267,Sunflower seed,12755725.0
+Russian Federation,667,Tea,504.0
+Russian Federation,388,Tomatoes,2899664.0
+Russian Federation,97,Triticale,400651.0
+Russian Federation,463,"Vegetables, fresh nes",2130045.0
+Russian Federation,420,"Vegetables, leguminous nes",322.0
+Russian Federation,205,Vetches,156115.0
+Russian Federation,567,Watermelons,1969954.0
+Russian Federation,15,Wheat,72136149.0
+Spain,221,"Almonds, with shell",339033.0
+Spain,711,"Anise, badian, fennel, coriander",4229.0
+Spain,515,Apples,562961.0
+Spain,526,Apricots,176289.0
+Spain,366,Artichokes,208463.0
+Spain,367,Asparagus,68403.0
+Spain,572,Avocados,89592.0
+Spain,486,Bananas,386226.0
+Spain,44,Barley,9129535.0
+Spain,176,"Beans, dry",17091.0
+Spain,414,"Beans, green",138925.0
+Spain,558,Berries nes,9486.0
+Spain,552,Blueberries,43516.0
+Spain,181,"Broad beans, horse beans, dry",34750.0
+Spain,358,Cabbages and other brassicas,213322.0
+Spain,101,Canary seed,408.0
+Spain,461,Carobs,2268.0
+Spain,426,Carrots and turnips,382427.0
+Spain,393,Cauliflowers and broccoli,725261.0
+Spain,108,Cereals nes,14795.0
+Spain,531,Cherries,106584.0
+Spain,530,"Cherries, sour",416.0
+Spain,220,Chestnut,15091.0
+Spain,191,Chick peas,91456.0
+Spain,459,Chicory roots,1506.0
+Spain,689,"Chillies and peppers, dry",6439.0
+Spain,401,"Chillies and peppers, green",1275457.0
+Spain,767,Cotton lint,64821.0
+Spain,329,Cottonseed,88320.0
+Spain,397,Cucumbers and gherkins,643661.0
+Spain,550,Currants,900.0
+Spain,577,Dates,1638.0
+Spain,399,Eggplants (aubergines),238325.0
+Spain,569,Figs,47750.0
+Spain,512,"Fruit, citrus nes",1709.0
+Spain,619,"Fruit, fresh nes",202570.0
+Spain,603,"Fruit, tropical fresh nes",190144.0
+Spain,406,Garlic,273476.0
+Spain,103,"Grain, mixed",25841.0
+Spain,507,Grapefruit (inc. pomelos),70624.0
+Spain,560,Grapes,6673481.0
+Spain,242,"Groundnuts, with shell",822.0
+Spain,225,"Hazelnuts, with shell",8033.0
+Spain,336,Hempseed,750.0
+Spain,677,Hops,915.0
+Spain,592,Kiwi fruit,23833.0
+Spain,407,"Leeks, other alliaceous vegetables",81637.0
+Spain,497,Lemons and limes,1087232.0
+Spain,201,Lentils,42827.0
+Spain,372,Lettuce and chicory,934670.0
+Spain,210,Lupins,2786.0
+Spain,56,Maize,3842519.0
+Spain,568,"Melons, other (inc.cantaloupes)",664353.0
+Spain,79,Millet,1759.0
+Spain,449,Mushrooms and truffles,166250.0
+Spain,234,Nuts nes,4238.0
+Spain,75,Oats,1486948.0
+Spain,260,Olives,9819569.0
+Spain,403,"Onions, dry",1272928.0
+Spain,402,"Onions, shallots, green",15106.0
+Spain,490,Oranges,3639853.0
+Spain,534,Peaches and nectarines,903809.0
+Spain,521,Pears,332319.0
+Spain,187,"Peas, dry",262567.0
+Spain,417,"Peas, green",109270.0
+Spain,748,Peppermint,119.0
+Spain,587,Persimmons,492320.0
+Spain,223,Pistachios,8277.0
+Spain,536,Plums and sloes,152984.0
+Spain,296,Poppy seed,12360.0
+Spain,116,Potatoes,2010933.0
+Spain,211,Pulses nes,83673.0
+Spain,394,"Pumpkins, squash and gourds",717645.0
+Spain,523,Quinces,9331.0
+Spain,270,Rapeseed,175231.0
+Spain,547,Raspberries,43705.0
+Spain,27,"Rice, paddy",808167.0
+Spain,149,Roots and tubers nes,6606.0
+Spain,71,Rye,388467.0
+Spain,280,Safflower seed,14777.0
+Spain,328,Seed cotton,156000.0
+Spain,83,Sorghum,25589.0
+Spain,236,Soybeans,4249.0
+Spain,723,Spices nes,4428.0
+Spain,373,Spinach,81530.0
+Spain,544,Strawberries,344679.0
+Spain,157,Sugar beet,2870907.0
+Spain,156,Sugar cane,1091.0
+Spain,267,Sunflower seed,950346.0
+Spain,122,Sweet potatoes,59863.0
+Spain,495,"Tangerines, mandarins, clementines, satsumas",1978581.0
+Spain,826,"Tobacco, unmanufactured",25983.0
+Spain,388,Tomatoes,4768595.0
+Spain,97,Triticale,649011.0
+Spain,463,"Vegetables, fresh nes",263196.0
+Spain,420,"Vegetables, leguminous nes",50900.0
+Spain,205,Vetches,135569.0
+Spain,222,"Walnuts, with shell",15176.0
+Spain,567,Watermelons,1092401.0
+Spain,15,Wheat,7989906.0
+Sweden,515,Apples,30610.0
+Sweden,44,Barley,1094400.0
+Sweden,181,"Broad beans, horse beans, dry",34100.0
+Sweden,358,Cabbages and other brassicas,17020.0
+Sweden,426,Carrots and turnips,92540.0
+Sweden,393,Cauliflowers and broccoli,9330.0
+Sweden,397,Cucumbers and gherkins,35790.0
+Sweden,550,Currants,290.0
+Sweden,103,"Grain, mixed",22200.0
+Sweden,407,"Leeks, other alliaceous vegetables",3180.0
+Sweden,372,Lettuce and chicory,28410.0
+Sweden,333,Linseed,4000.0
+Sweden,75,Oats,363500.0
+Sweden,403,"Onions, dry",52980.0
+Sweden,521,Pears,1740.0
+Sweden,187,"Peas, dry",48430.0
+Sweden,417,"Peas, green",9580.0
+Sweden,536,Plums and sloes,250.0
+Sweden,116,Potatoes,720200.0
+Sweden,270,Rapeseed,217800.0
+Sweden,547,Raspberries,480.0
+Sweden,71,Rye,88200.0
+Sweden,373,Spinach,290.0
+Sweden,544,Strawberries,15640.0
+Sweden,157,Sugar beet,1698400.0
+Sweden,388,Tomatoes,18230.0
+Sweden,97,Triticale,66900.0
+Sweden,463,"Vegetables, fresh nes",39740.0
+Sweden,15,Wheat,1620300.0
+Ukraine,711,"Anise, badian, fennel, coriander",950.0
+Ukraine,515,Apples,1462360.0
+Ukraine,526,Apricots,111670.0
+Ukraine,44,Barley,7349140.0
+Ukraine,176,"Beans, dry",71190.0
+Ukraine,414,"Beans, green",3104.0
+Ukraine,558,Berries nes,1820.0
+Ukraine,552,Blueberries,1180.0
+Ukraine,181,"Broad beans, horse beans, dry",7750.0
+Ukraine,89,Buckwheat,137010.0
+Ukraine,358,Cabbages and other brassicas,1672000.0
+Ukraine,461,Carobs,128.0
+Ukraine,426,Carrots and turnips,841840.0
+Ukraine,393,Cauliflowers and broccoli,21240.0
+Ukraine,108,Cereals nes,7407.0
+Ukraine,531,Cherries,84640.0
+Ukraine,530,"Cherries, sour",218700.0
+Ukraine,220,Chestnut,229.0
+Ukraine,459,Chicory roots,5051.0
+Ukraine,401,"Chillies and peppers, green",176150.0
+Ukraine,554,Cranberries,312.0
+Ukraine,397,Cucumbers and gherkins,985120.0
+Ukraine,550,Currants,29630.0
+Ukraine,399,Eggplants (aubergines),68510.0
+Ukraine,773,Flax fibre and tow,680.0
+Ukraine,619,"Fruit, fresh nes",1148.0
+Ukraine,542,"Fruit, pome nes",800.0
+Ukraine,541,"Fruit, stone nes",13440.0
+Ukraine,406,Garlic,187020.0
+Ukraine,549,Gooseberries,8150.0
+Ukraine,103,"Grain, mixed",6010.0
+Ukraine,560,Grapes,467630.0
+Ukraine,777,Hemp tow waste,703.0
+Ukraine,336,Hempseed,596.0
+Ukraine,677,Hops,570.0
+Ukraine,201,Lentils,19620.0
+Ukraine,372,Lettuce and chicory,1760.0
+Ukraine,333,Linseed,23990.0
+Ukraine,210,Lupins,15040.0
+Ukraine,56,Maize,35801050.0
+Ukraine,446,"Maize, green",58660.0
+Ukraine,568,"Melons, other (inc.cantaloupes)",102750.0
+Ukraine,79,Millet,80460.0
+Ukraine,449,Mushrooms and truffles,14780.0
+Ukraine,292,Mustard seed,33340.0
+Ukraine,75,Oats,418460.0
+Ukraine,339,Oilseeds nes,66744.0
+Ukraine,403,"Onions, dry",883920.0
+Ukraine,402,"Onions, shallots, green",24120.0
+Ukraine,534,Peaches and nectarines,26380.0
+Ukraine,521,Pears,183170.0
+Ukraine,187,"Peas, dry",775600.0
+Ukraine,417,"Peas, green",19700.0
+Ukraine,536,Plums and sloes,198070.0
+Ukraine,116,Potatoes,22503970.0
+Ukraine,211,Pulses nes,57950.0
+Ukraine,394,"Pumpkins, squash and gourds",1338000.0
+Ukraine,523,Quinces,7390.0
+Ukraine,270,Rapeseed,2750600.0
+Ukraine,547,Raspberries,35150.0
+Ukraine,27,"Rice, paddy",69210.0
+Ukraine,71,Rye,393780.0
+Ukraine,280,Safflower seed,109.0
+Ukraine,83,Sorghum,193980.0
+Ukraine,236,Soybeans,4460770.0
+Ukraine,544,Strawberries,62330.0
+Ukraine,157,Sugar beet,13967700.0
+Ukraine,267,Sunflower seed,14165170.0
+Ukraine,826,"Tobacco, unmanufactured",1290.0
+Ukraine,388,Tomatoes,2324070.0
+Ukraine,463,"Vegetables, fresh nes",896650.0
+Ukraine,420,"Vegetables, leguminous nes",479.0
+Ukraine,205,Vetches,7440.0
+Ukraine,222,"Walnuts, with shell",127190.0
+Ukraine,567,Watermelons,396870.0
+Ukraine,15,Wheat,24652840.0
+United States of America,221,"Almonds, with shell",1872500.0
+United States of America,515,Apples,4652500.0
+United States of America,526,Apricots,35880.0
+United States of America,366,Artichokes,45382.0
+United States of America,367,Asparagus,35460.0
+United States of America,572,Avocados,168528.0
+United States of America,486,Bananas,4274.0
+United States of America,44,Barley,3332970.0
+United States of America,176,"Beans, dry",1700510.0
+United States of America,414,"Beans, green",30920.0
+United States of America,558,Berries nes,22860.0
+United States of America,552,Blueberries,255050.0
+United States of America,89,Buckwheat,84440.0
+United States of America,358,Cabbages and other brassicas,884846.0
+United States of America,426,Carrots and turnips,1497670.0
+United States of America,393,Cauliflowers and broccoli,1204696.0
+United States of America,531,Cherries,312430.0
+United States of America,530,"Cherries, sour",135310.0
+United States of America,191,Chick peas,577970.0
+United States of America,689,"Chillies and peppers, dry",435.0
+United States of America,401,"Chillies and peppers, green",705790.0
+United States of America,656,"Coffee, green",2380.0
+United States of America,767,Cotton lint,4003950.0
+United States of America,329,Cottonseed,5256230.0
+United States of America,195,"Cow peas, dry",23632.0
+United States of America,554,Cranberries,404880.0
+United States of America,397,Cucumbers and gherkins,700819.0
+United States of America,577,Dates,37240.0
+United States of America,399,Eggplants (aubergines),103003.0
+United States of America,569,Figs,28874.0
+United States of America,512,"Fruit, citrus nes",28514.0
+United States of America,619,"Fruit, fresh nes",670.0
+United States of America,406,Garlic,260340.0
+United States of America,720,Ginger,597.0
+United States of America,507,Grapefruit (inc. pomelos),558830.0
+United States of America,560,Grapes,6890970.0
+United States of America,242,"Groundnuts, with shell",2477340.0
+United States of America,225,"Hazelnuts, with shell",46270.0
+United States of America,677,Hops,48492.0
+United States of America,592,Kiwi fruit,34290.0
+United States of America,497,Lemons and limes,812840.0
+United States of America,201,Lentils,381380.0
+United States of America,372,Lettuce and chicory,3677323.0
+United States of America,333,Linseed,121540.0
+United States of America,56,Maize,392450840.0
+United States of America,446,"Maize, green",3323910.0
+United States of America,571,"Mangoes, mangosteens, guavas",1019.0
+United States of America,568,"Melons, other (inc.cantaloupes)",872080.0
+United States of America,79,Millet,326340.0
+United States of America,449,Mushrooms and truffles,416050.0
+United States of America,292,Mustard seed,33150.0
+United States of America,234,Nuts nes,126200.0
+United States of America,75,Oats,814720.0
+United States of America,430,Okra,10904.0
+United States of America,260,Olives,138596.0
+United States of America,403,"Onions, dry",3284420.0
+United States of America,490,Oranges,4833480.0
+United States of America,600,Papayas,4717.0
+United States of America,534,Peaches and nectarines,700350.0
+United States of America,521,Pears,730740.0
+United States of America,187,"Peas, dry",722530.0
+United States of America,417,"Peas, green",230048.0
+United States of America,574,Pineapples,149288.0
+United States of America,223,Pistachios,447700.0
+United States of America,536,Plums and sloes,368206.0
+United States of America,116,Potatoes,20607342.0
+United States of America,394,"Pumpkins, squash and gourds",683038.0
+United States of America,270,Rapeseed,1644170.0
+United States of America,547,Raspberries,99250.0
+United States of America,27,"Rice, paddy",10170040.0
+United States of America,71,Rye,214180.0
+United States of America,280,Safflower seed,107220.0
+United States of America,328,Seed cotton,11429937.0
+United States of America,83,Sorghum,9271070.0
+United States of America,236,Soybeans,123664230.0
+United States of America,373,Spinach,384669.0
+United States of America,544,Strawberries,1296272.0
+United States of America,423,String beans,798110.0
+United States of America,157,Sugar beet,30068647.0
+United States of America,156,Sugar cane,31335984.0
+United States of America,267,Sunflower seed,959990.0
+United States of America,122,Sweet potatoes,1241846.0
+United States of America,495,"Tangerines, mandarins, clementines, satsumas",804670.0
+United States of America,136,Taro (cocoyam),1600.0
+United States of America,826,"Tobacco, unmanufactured",241870.0
+United States of America,388,Tomatoes,12612139.0
+United States of America,463,"Vegetables, fresh nes",807349.0
+United States of America,420,"Vegetables, leguminous nes",43986.0
+United States of America,222,"Walnuts, with shell",613260.0
+United States of America,567,Watermelons,1771051.0
+United States of America,15,Wheat,51286540.0
