@@ -81,4 +81,19 @@ def overall_evaluation(island, country, time):
     b = .5
     return a* CHPI(island, country, time, .5,.5) + b* viability(country)
 
+def overall_evaluationculture(island, country, time):
+    a = 1
+    b = 0
+    return a* CHPI(island, country, time, .5,.5) + b* viability(country)
+
+def overall_evaluationlog(island, country, time):
+    a = 0
+    b = 1
+    return a* CHPI(island, country, time, .5,.5) + b* viability(country)
+
+
+def overall_evaluationmix(island, country, time):
+    a = .2
+    b = .8
+    return a* CHPI(island, country, time, .5,.5) + b* viability(country)
 
